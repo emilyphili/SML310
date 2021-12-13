@@ -4,4 +4,4 @@ This project examines the potential of five machine learning models to predict r
 
 Data_Prep.ipynb is for extraction of CoreLogic's proprietary data. 
 
-Main.ipynb is for data preparation, EDA, and running the ML models.
+Main.ipynb is for data pre-processing and preparation, EDA, and running the ML models.
